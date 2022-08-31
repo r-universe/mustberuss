@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "patentsview",
+    "oncran": false
+  }
+]
