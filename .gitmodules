@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mustberuss/universe
-	shallow = true
 	branch = HEAD
 [submodule "patentsview"]
 	path = patentsview
 	url = https://github.com/mustberuss/patentsview
-	shallow = true
 	branch = api-redesign
-	registered = true
