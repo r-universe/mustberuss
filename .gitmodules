@@ -5,4 +5,4 @@
 [submodule "patentsview"]
 	path = patentsview
 	url = https://github.com/mustberuss/patentsview
-	branch = api-redesign
+	branch = russ-pr-refactorings
